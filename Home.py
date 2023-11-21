@@ -12,7 +12,7 @@ import plotly.graph_objs as go
 #from query import *
 
 st.set_page_config(page_title="Dashboard",page_icon="🌍",layout="wide")
-st.header("OPEN SOURCE BUSINESS ANALYTICS DASHBOARD  KPI, TRENDS & PREDICTIONS")
+st.header("ONLINE BUSINESS ANALYTICAL PROCESSING, KPI, TRENDS & PREDICTIONS")
 
 #all graphs we use custom css not streamlit 
 theme_plotly = None 
