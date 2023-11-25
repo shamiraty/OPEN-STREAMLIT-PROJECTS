@@ -22,7 +22,7 @@ with st.expander("🔎 VIEW ORIGINAL DATASET"):
  st.dataframe(df[showData],use_container_width=True)
 
 #side navigation 
-st.sidebar.image("logo1.png")
+st.sidebar.image("data/logo1.png")
 
 #calculate a frequency
 frequency=df.UnitPrice.value_counts().sort_index()
