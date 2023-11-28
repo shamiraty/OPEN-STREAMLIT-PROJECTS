@@ -12,7 +12,7 @@ import plotly.graph_objs as go
 #from query import *
 
 st.set_page_config(page_title="Dashboard",page_icon="🌍",layout="wide")
-st.header("ONLINE BUSINESS ANALYTICAL PROCESSING, KPI, TRENDS & PREDICTIONS")
+st.header("ANALYTICAL PROCESSING, KPI, TRENDS & PREDICTIONS")
 
 #all graphs we use custom css not streamlit 
 theme_plotly = None 
@@ -69,15 +69,15 @@ def Home():
 
     total1,total2,total3,total4,total5=st.columns(5,gap='small')
     with total1:
-        st.info('Total Sum Investment',icon="💰")
+        st.info('Sum Investment',icon="💰")
         st.metric(label="Sum TZS",value=f"{total_investment:,.0f}")
 
     with total2:
-        st.info('Most Frequent Investment',icon="💰")
+        st.info('Most Investment',icon="💰")
         st.metric(label="Mode TZS",value=f"{investment_mode:,.0f}")
 
     with total3:
-        st.info('Average Mean',icon="💰")
+        st.info('Average',icon="💰")
         st.metric(label="Average TZS",value=f"{investment_mean:,.0f}")
 
     with total4:
@@ -90,7 +90,7 @@ def Home():
     style_metric_cards(background_color="#FFFFFF",border_left_color="#686664",border_color="#000000",box_shadow="#F71938")
 
     #variable distribution Histogram
-    with st.expander("EXPLORATORY VARIABLE DISTRIBUTIONS BY FREQUENCY"):
+    with st.expander("DISTRIBUTIONS BY FREQUENCY"):
      df.hist(figsize=(16,8),color='#898784', zorder=2, rwidth=0.9,legend = ['Investment']);
      st.pyplot()
 
