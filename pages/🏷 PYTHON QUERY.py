@@ -16,7 +16,7 @@ with open('style.css')as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html = True)
     
 # Load the Excel file into a DataFrame
-file_path = 'data.xlsx'  # Replace with your file path
+file_path = 'python_query.xlsx'  # Replace with your file path
 df = pd.read_excel(file_path)
 
 # TASK 1: Display results using Streamlit metrics cards horizontally
