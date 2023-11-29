@@ -9,14 +9,14 @@ st.subheader("QUERY OPERATIONS | WITH AGGREGATIONS, RELATION & COMPARISON OPERAT
 theme_plotly = None 
 
 #sidebar
-st.sidebar.image("logo1.png")
+st.sidebar.image("data/logo1.png")
 
 # load Style css
 with open('style.css')as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html = True)
     
 # Load the Excel file into a DataFrame
-file_path = 'python_query.xlsx'  # Replace with your file path
+file_path = 'python_query.xlsx'  
 df = pd.read_excel(file_path)
 
 # TASK 1: Display results using Streamlit metrics cards horizontally
