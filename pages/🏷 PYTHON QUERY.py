@@ -66,7 +66,7 @@ with st.expander("**QUERY 6:** select count **Location** where **Location** ='Do
  st.info(f"## {count_location}")
 
 # Query 7
-with st.expander("**QUERY 7:**select count  **Location** and **Region** where **Location** ='Dodoma' and **Region**='East'"):
+with st.expander("**QUERY 7:** > select count  **Location** and **Region** where **Location** ='Dodoma' and **Region**='East'"):
  count_location_region = df[(df['State'] == "Dodoma") & (df['Region'] == "East")]['Location'].count()
  st.info(f"## {count_location_region:,.3f}")
 
