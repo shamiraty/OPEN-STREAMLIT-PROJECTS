@@ -203,7 +203,10 @@ fig2 = go.Figure(
 # Display the Plotly figure using Streamlit
 st.plotly_chart(fig2,use_container_width=True)
 
-
+st.markdown("""
+        """ 
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6844203975265127"
+        crossorigin="anonymous"></script>""", unsafe_allow_html=True)
 
 #theme
 hide_st_style=""" 
