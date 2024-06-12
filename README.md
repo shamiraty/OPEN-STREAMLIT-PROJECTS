@@ -1,9 +1,7 @@
-# OPEN ONLINE ANALYTICAL PROCESSING WEB DASHBOARD
+# BUSINESS ANALYTICS WEB DASHBOARD
+# DATA SCIENCE WEB DRIVEN WITH PYTHON AND STREAMLIT
+## DESCRIPTIVE AND REFERENTIAL STATISTICS
 ![1](https://github.com/shamiraty/OPEN-STREAMLIT-PROJECTS/assets/129072179/f7ad0f6c-16e0-4085-a129-4ede0b5b024c)
-
-Descriptive analytics is a type of data analytics that looks at past data to provide an account of what has happened. Results are typically presented in reports, dashboards, bar charts, and other easily understood visualizations.
-
-Descriptive statistics provide simple summaries about the sample and observations that have been made. Such summaries may be either quantitative, i.e., summary statistics, or visual, i.e., simple-to-understand graphs. These summaries may form the basis of the initial description of the data as part of a more extensive statistical analysis, or they may be sufficient in and of themselves for a particular investigation.
 
 ### Live Demo
 [Live Demo](https://open-projects.streamlit.app/)
@@ -14,7 +12,6 @@ Descriptive statistics provide simple summaries about the sample and observation
 # FEATURES:
 
 - 🏷 CO-VARIANCE
-- 🏷 VIDEO TUTORIALS
 - 🏷 ADVANCED MULTIVARIATE REGRESSION
 - 🏷 TRENDS BY GEO-REFERENCING
 - 🏷 DESCRIPTIVE STATISTICS ANALYTICS
@@ -23,7 +20,19 @@ Descriptive statistics provide simple summaries about the sample and observation
 - 🏷 BUSINESS TARGET BY PROGRESS
 - 🏷 INTERACTIVE VISUALIZATION GRAPHS
 
-# VIDEO SERIES:
+### 2. Statistical Calculations
+1. **Mean**: The average age.
+2. **Median**: The middle value of the age data.
+3. **Mode**: The most frequently occurring age.
+4. **Variance**: The measure of age data spread.
+5. **Standard Deviation**: The amount of variation in age data.
+6. **Skewness**: The asymmetry of the age distribution.
+7. **Range**: The difference between the maximum and minimum ages.
+8. **Quartiles (Q1 and Q3)**: The 25th and 75th percentiles.
+9. **Quartile Deviation**: Half the interquartile range.
+10. **Mean Deviation**: The average absolute deviation from the mean.
+
+# OTHER VIDEO SERIES:
 
 ### Data Science Web Development Job Recommendation System
 
@@ -154,3 +163,24 @@ Descriptive statistics provide simple summaries about the sample and observation
 ![13](https://github.com/shamiraty/OPEN-STREAMLIT-PROJECTS/assets/129072179/b1094b21-0760-4d9b-9d9d-ebe1f21bc08f)
 ![12](https://github.com/shamiraty/OPEN-STREAMLIT-PROJECTS/assets/129072179/819035cf-67a6-4086-860c-786f213e2123)   
 ![15](https://github.com/shamiraty/OPEN-STREAMLIT-PROJECTS/assets/129072179/e8eb4977-8775-4921-8a82-9a71a1ecb0b3)
+
+### Contact Information
+
+#### WhatsApp
+- +255675839840
+- +255656848274
+
+#### YouTube
+[YouTube Channel](https://www.youtube.com/channel/UCjepDdFYKzVHFiOhsiVVffQ)
+
+#### Telegram
+- +255656848274
+- +255738144353
+
+#### PlayStore
+[PlayStore Developer Page](https://play.google.com/store/apps/dev?id=7334720987169992827&hl=en_US&pli=1)
+
+#### GitHub
+[GitHub Profile](https://github.com/shamiraty/)
+
+
