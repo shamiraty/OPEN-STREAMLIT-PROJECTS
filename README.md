@@ -1,6 +1,7 @@
-# BUSINESS ANALYTICS WEB DASHBOARD
-# DATA SCIENCE WEB DRIVEN WITH PYTHON AND STREAMLIT
-## DESCRIPTIVE AND INFERENTIAL STATISTICS
+# BUSINESS INTELLIGENCE: KPI, TRENDS & PREDICTION
+# AUTOMATED INFERENTIAL & DESCRIPTIVE STATISTICS
+# DATA-DRIVEN WEB APPLICATION WITH PYTHON AND STREAMLIT
+
 
 ![1](https://github.com/shamiraty/OPEN-STREAMLIT-PROJECTS/assets/129072179/f7ad0f6c-16e0-4085-a129-4ede0b5b024c)
 
@@ -10,13 +11,32 @@
 ### YouTube
 [Watch the video](https://www.youtube.com/watch?v=YkPxL-XLM7I)
 
-| **Section**             | **Description**                                                                                                                                                                                                            |
-|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Introduction**        | My name is Sameer, a data scientist and software developer. I have designed this application as a foundation for others to solve data-related problems in fields like scientific research, finance, health, and more. This application demonstrates data collection, cleaning, analysis, and interpretation, making data science more accessible for practical applications. |
-| **Problem Statement**   | Many organizations and researchers struggle with efficiently analyzing vast amounts of data. Traditional methods are time-consuming and often require specialized knowledge. This project addresses the need for an accessible tool that leverages data science and statistics to automate data analysis for a range of applications, including predictive modeling, trend analysis, and hypothesis testing. |
-| **Main Objective**      | To educate users on statistical and machine learning models, illustrating how scientific computing and programming can automate complex analysis tasks. By making these techniques accessible, users can enhance decision-making and derive insights effectively. |
-| **Methodology**         | 1. **Data Collection**: Data is gathered from various sources, depending on the field (e.g., health records, financial data, surveys).<br> 2. **Data Cleaning**: Data is preprocessed to handle missing values, correct errors, and ensure proper data types.<br> 3. **Data Analysis**: Using descriptive and inferential statistical methods, key patterns and trends are identified.<br> 4. **Model Development**: Machine learning models, such as regression and classification, are created to predict outcomes and analyze patterns.<br> 5. **Visualization**: Interactive visualizations (e.g., histograms, ogives, scatter plots) provide an intuitive understanding of results.<br> 6. **Interpretation**: Insights are derived to support data-driven decisions relevant to users' fields. |
-| **Targeted Audience**   | - Scientific Research<br>- Health & Medical Laboratories<br>- Data Scientists<br>- Educators and Students<br>- Statisticians<br>- Natural Mathematicians<br>- Information Systems Experts<br>- Software Developers<br>- Finance & Accounting Professionals |
+
+# TARGET AUDIENCE
+
+| **Serial No.** | **Targeted Audience**            |
+|----------------|----------------------------------|
+| 1              | Scientific Research              |
+| 2              | Health & Medical Laboratories    |
+| 3              | Data Scientists                  |
+| 4              | Educational Institutions         |
+| 5              | Statisticians                    |
+| 6              | Natural Mathematics Researchers  |
+| 7              | Information System Analysts      |
+| 8              | Software Developers              |
+| 9              | Finance & Accounting Professionals|
+| 10             | Machine Learning Engineers       |
+| 11             | Market Analysts                  |
+| 12             | Economists                       |
+| 13             | Business Intelligence Analysts   |
+| 14             | Operations Researchers           |
+| 15             | Environmental Scientists         |
+| 16             | Policy Analysts                  |
+| 17             | Social Science Researchers       |
+| 18             | Clinical Data Managers           |
+| 19             | Actuaries                        |
+| 20             | Product Managers                 |
+
 
 
 # INTRODUCTION
