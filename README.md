@@ -79,7 +79,7 @@ The main objective of this project is to provide knowledge about statistical and
 | 18   | ESTIMATION OF POPULATION         | Inference of population parameters based on sample data.                  |
 | 19   | PROBABILITY DENSITY              | Function describing the likelihood of a continuous random variable's outcome. |
 
-# EXPLANATION OF PROJECT PYTHON PAGES
+# PROJECT  PAGES
 
 # PAGE 1: DESCRIPTIVE STATISTICS FOR GROUPED DATA 
 
