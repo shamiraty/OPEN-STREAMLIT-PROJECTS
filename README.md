@@ -339,7 +339,103 @@ The main objective of this project is to provide knowledge about statistical and
 - **Regression Line and Scatter Plot**: Visualizes the relationship between actual and predicted values, including the best fit line.
 - **Residual Plot**: Shows the distribution of residuals using a KDE plot.
 
-# PAGE 9: SALES ANALYTICS { CASE STUDY }
+# PAGE 9: NORMAL DISTRIBUTION
+
+### 1. **Data Collection**  
+   - The application uses an Excel file (`normal_distr.xlsx`) to load the dataset which contains student marks.
+
+### 2. **Data Preprocessing**  
+   - The data is cleaned by extracting the 'Marks' column for analysis.  
+   - A slider is created for users to select an X value from the data range (min, max, mean).
+
+### 3. **Statistical Calculations**  
+   - **Mean & Standard Deviation**:  
+     The application calculates the population mean and standard deviation of the marks.
+   - **Z-Score Calculation**:  
+     The Z-score is calculated using the formula:  
+     `Z = (X - Mean) / Standard Deviation`, where `X` is the user-selected value.
+   - **Probability Calculation**:  
+     The cumulative distribution function (CDF) for the Z-score is computed using the normal distribution.
+
+### 4. **Visualizations**  
+   - **Standard Normal Distribution Curve**:  
+     A line plot of the standard normal distribution (`Z ~ N(0, 1)`) is generated using `Plotly`.
+     - Red marker indicates the selected Z-score value.
+     - The shaded area on the graph represents the probability for the selected Z-score value.
+   - **Standardized Marks Distribution**:  
+     A plot shows the probability distribution of standardized marks.
+   - **Probability of Selected X**:  
+     Another plot shows the probability density associated with the selected X value.
+
+### 5. **Standardization of Data**  
+   - The application standardizes the marks (i.e., converts the marks into Z-scores) for comparison across datasets.
+   - The standardized marks are added as a new column in the dataset.
+
+### 6. **Z-Table**  
+   - A Z-table is generated which maps Z-scores to their corresponding cumulative probabilities.  
+   - The table allows the user to quickly reference the probability associated with different Z-scores.
+
+### 7. **Interactive Elements**  
+   - **Filters**:  
+     The user can filter the data using a multiselect dropdown for columns such as "fullname", "gender", "Marks", "Probability", and "Standardized Marks".
+   - **PDF Download**:  
+     The Z-table can be downloaded as a PDF file for further use or offline reference.
+
+### 8. **User Interaction**  
+   - The sidebar allows the user to interact with the X value slider and see the corresponding changes in the graph and statistics.
+   - Various interactive graphs display the probability distributions and Z-score information dynamically.
+
+### 9. **Statistical Insight**  
+   - The application offers insights such as the probability of the selected X value, the Z-score, and the standard deviation, helping users understand the statistical significance of their data.
+
+### 10. **Output Display**  
+   - The output is displayed in a structured layout with expandable sections for viewing different analyses:
+     - Estimation Parameters
+     - Normal Curves
+     - Standardized Student Marks Table
+     - Z Table
+
+# PAGE 10: ESTIMATION OF POPULATION PARAMETERS
+
+# Quantitative Research: Population Estimation
+
+## Overview
+
+In this page, we are performing a **population estimation** based on a sample dataset containing ages. The analysis involves calculating sample statistics and confidence intervals for the population mean and standard deviation. The critical steps and results are presented below, with visualizations to enhance the understanding of the statistical concepts.
+
+## Key Data Science and Statistical Concepts Used
+
+### 1. **Loading and Processing Data**
+The data is loaded from a CSV file, and the `age` column is extracted for statistical analysis.
+
+### 2. **Sample Statistics**
+- **Sample Size (n):** The number of entries in the `age` column.
+- **Sample Mean:** The average age in the sample.
+- **Sample Standard Deviation:** The measure of variability in the sample.
+
+### 3. **Population Estimation**
+- **Population Size (N):** The total number of individuals in the population (set to 1000 in this case).
+- **Confidence Level (95%):** The level of certainty we have in our estimation.
+
+### 4. **Confidence Intervals**
+- **Population Mean Confidence Interval:** A range within which the true population mean is likely to lie, calculated using the sample mean and sample standard deviation.
+- **Population Standard Deviation Confidence Interval:** A range within which the true population standard deviation is likely to lie, calculated using the sample's chi-square distribution.
+
+### 5. **Standard Error of the Mean (SEM)**
+This metric is used to estimate the precision of the sample mean as an estimate of the population mean.
+
+### 6. **Critical Z-Value**
+We calculate the critical z-value for a 95% confidence level using the standard normal distribution, which helps in defining the range of values for the confidence interval.
+
+### 7. **Normal Distribution Curve**
+The normal distribution curve is plotted to represent the probability density of the sample mean. A shaded region is used to represent the 95% confidence interval for the population mean.
+
+### 8. **Plotly Visualization**
+- A **normal distribution curve** is plotted using Plotly.
+- The **95% confidence interval** is shaded under the curve to visualize the area within which the population mean is expected to lie.
+- Markers are added to highlight the sample mean and the confidence interval bounds.
+
+# PAGE 11: SALES ANALYTICS { CASE STUDY }
 
 ## 1. Data Import and Processing
 - **Dataset Loading**: A CSV file (`sales.csv`) is read into a pandas DataFrame for analysis.
