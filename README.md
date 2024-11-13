@@ -2,8 +2,7 @@
 # AUTOMATED INFERENTIAL & DESCRIPTIVE STATISTICS
 # DATA-DRIVEN WEB APPLICATION WITH PYTHON AND STREAMLIT
 
-
-![1](https://github.com/shamiraty/OPEN-STREAMLIT-PROJECTS/assets/129072179/f7ad0f6c-16e0-4085-a129-4ede0b5b024c)
+<!--![1](https://github.com/shamiraty/OPEN-STREAMLIT-PROJECTS/assets/129072179/f7ad0f6c-16e0-4085-a129-4ede0b5b024c)-->
 
 ### Live Demo
 [Live Demo](https://open-projects.streamlit.app/)
