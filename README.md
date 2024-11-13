@@ -273,7 +273,7 @@ The main objective of this project is to provide knowledge about statistical and
    - Present the ogives plot in Streamlit to allow for intuitive data exploration.
 
 
-# PAGE 7: DATA VISUALIZATION
+# PAGE 7: DATA VISUALIZATION TECHNIQUES
 
 1. **Data Loading and Selection**  
    - Loads data from an Excel file (`data.xlsx`) and uses it for analytical processing.
@@ -395,14 +395,11 @@ The main objective of this project is to provide knowledge about statistical and
      - Z Table
 
 # PAGE 10: ESTIMATION OF POPULATION PARAMETERS
-
-# Quantitative Research: Population Estimation
-
 ## Overview
 
 In this page, we are performing a **population estimation** based on a sample dataset containing ages. The analysis involves calculating sample statistics and confidence intervals for the population mean and standard deviation. The critical steps and results are presented below, with visualizations to enhance the understanding of the statistical concepts.
 
-## Key Data Science and Statistical Concepts Used
+_Key Data Science and Statistical Concepts Used_
 
 ### 1. **Loading and Processing Data**
 The data is loaded from a CSV file, and the `age` column is extracted for statistical analysis.
