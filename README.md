@@ -32,13 +32,27 @@
 
 
 # INTRODUCTION
-`I’m Sameer`, a data scientist and software developer. This application is designed to serve as a foundation for solving data-related challenges across diverse fields. It guides users through the process of data collection, cleaning, analysis, and interpretation to derive valuable insights
+`I’m Sameer`, a data scientist and software developer. This application is built to address data-related challenges across various fields. It provides a structured approach to data workflows, including collection, exploration, cleaning, transformation, analysis, and interpretation, helping to uncover valuable insights and support effective business decisions.
 
 # PROBLEM STATEMENT
-Many organizations and researchers struggle to analyze vast amounts of data efficiently. Traditional methods can be time-consuming and often require specialized knowledge in both statistics and programming. The challenge is to provide an accessible tool that leverages data science and statistical techniques to automate data analysis tasks for various applications, including predictive modeling, trend analysis, and hypothesis testing.
+`The target audience mentioned above`, struggles to analyze large amounts of data efficiently. Many do not know which tools or technologies to use for collecting, analyzing, and interpreting data. Instead, they rely on traditional methods like manual calculations or using Excel. While these methods work for simple data, they are slow and difficult to use with complex data. They also require knowledge of statistics and programming, which most people do not have. This can lead to mistakes, false results, and other problems.
+
+# IMPORTANCE OF THIS PROJECT
+This project simplifies data analysis by providing automated tools and models that use data science and statistical techniques to handle complex data efficiently. It reduces errors, saves time, and allows users to get accurate results without needing advanced skills or manual calculations. Additionally, the project demonstrates how to apply mathematical models and open-source pre-trained machine learning models to solve real-world problems in business enviroment, making data-driven informed decisions more accessible and effective.
 
 # MAIN OBJECTIVE
-The main objective of this project is to provide knowledge about statistical and machine learning models, demonstrating how scientific computing and programming can be used to automate complex analysis tasks. By making these techniques accessible, users can enhance their decision-making processes and generate insights more effectively.
+The main objective of this project is to develop a program that teaches how statistical models, machine learning, and programming languages can be used for complex data analysis in a business environment. It aims to help users enhance decision-making and generate insights more effectively through automation.
+
+# SPECIFIC OBJECTIVES
+
+- Collect data using tools like Excel.
+- Explore the data using data exploration methods.
+- Clean the data by removing anomalies.
+- Transform the data for analysis.
+- Use pre-trained models for analysis and prediction.
+- Make statistical inferences based on the findings.
+- Compare different data groups for insights.
+- Create a web application for information sharing using Streamlit.
 
 # METHODOLOGY
 1. **Data Collection**: Data is gathered from relevant sources depending on the field of application (e.g., health records, financial data, survey data).
