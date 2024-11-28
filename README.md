@@ -1,6 +1,6 @@
-# BUSINESS INTELLIGENCE: KPI, TRENDS & PREDICTION
-# AUTOMATED INFERENTIAL & DESCRIPTIVE STATISTICS
-# DATA-DRIVEN WEB APPLICATION WITH PYTHON AND STREAMLIT
+## BUSINESS INTELLIGENCE:  KPI, TRENDS, AND PREDICTIONS
+## SCIENTIFIC COMPUTING:  INFERENTIAL & DESCRIPTIVE STATISTICS
+## DATA-DRIVEN WEB APPLICATIONS: PYTHON & STREAMLIT
 
 <!--![1](https://github.com/shamiraty/OPEN-STREAMLIT-PROJECTS/assets/129072179/f7ad0f6c-16e0-4085-a129-4ede0b5b024c)-->
 
@@ -15,7 +15,7 @@
 
 | **Serial No.** | **Targeted Audience**            |
 |----------------|----------------------------------|
-| 1              | Scientific Research              |
+| 1              | Scientific Researchers           |
 | 2              | Health & Medical Laboratories    |
 | 3              | Data Scientists                  |
 | 4              | Educational Institutions         |
@@ -29,17 +29,10 @@
 | 12             | Economists                       |
 | 13             | Business Intelligence Analysts   |
 | 14             | Operations Researchers           |
-| 15             | Environmental Scientists         |
-| 16             | Policy Analysts                  |
-| 17             | Social Science Researchers       |
-| 18             | Clinical Data Managers           |
-| 19             | Actuaries                        |
-| 20             | Product Managers                 |
-
 
 
 # INTRODUCTION
-My name is Sameer, a data scientist and software developer. I have designed this application as a foundation for others to solve data-related problems across fields such as scientific research, finance, and health. Through this application, you can learn how data is collected, cleaned, analyzed, and interpreted to derive meaningful insights.
+`I’m Sameer`, a data scientist and software developer. This application is designed to serve as a foundation for solving data-related challenges across diverse fields. It guides users through the process of data collection, cleaning, analysis, and interpretation to derive valuable insights
 
 # PROBLEM STATEMENT
 Many organizations and researchers struggle to analyze vast amounts of data efficiently. Traditional methods can be time-consuming and often require specialized knowledge in both statistics and programming. The challenge is to provide an accessible tool that leverages data science and statistical techniques to automate data analysis tasks for various applications, including predictive modeling, trend analysis, and hypothesis testing.
