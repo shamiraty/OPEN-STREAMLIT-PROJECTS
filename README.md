@@ -32,27 +32,40 @@
 
 
 # INTRODUCTION
-`I’m Sameer`, a data scientist and software developer. This application is built to address data-related challenges across various fields. It provides a structured approach to data workflows, including collection, exploration, cleaning, transformation, analysis, and interpretation, helping to uncover valuable insights and support effective business decisions.
+`I’m Sameer`, a data scientist and software developer. This application is built **to address data-related challenges** across various fields. It provides a structured approach to data workflows, including collection, exploration, cleaning, transformation, analysis, and interpretation, helping to uncover valuable insights and support effective business decisions.
 
 # PROBLEM STATEMENT
-`The target audience mentioned above`, struggles to analyze large amounts of data efficiently. Many do not know which tools or technologies to use for collecting, analyzing, and interpreting data. Instead, they rely on traditional methods like manual calculations or using Excel. While these methods work for simple data, they are slow and difficult to use with complex data. They also require knowledge of statistics and programming, which most people do not have. This can lead to mistakes, false results, and other problems.
+```The target audience mentioned above``` struggles to analyze large datasets effectively. Many do not know the right tools or technologies for data collection, analysis, and interpretation. Instead, they rely on manual calculations, Excel, or SPSS. These methods may work for small datasets but often lead to computational errors, inaccurate results, wrong findings and other data problems.
 
 # IMPORTANCE OF THIS PROJECT
-This project simplifies data analysis by providing automated tools and models that use data science and statistical techniques to handle complex data efficiently. It reduces errors, saves time, and allows users to get accurate results without needing advanced skills or manual calculations. Additionally, the project demonstrates how to apply mathematical models and open-source pre-trained machine learning models to solve real-world problems in business enviroment, making data-driven informed decisions more accessible and effective.
+
+This project **simplifies** data analysis by providing **automated tools** and **mathematical models** that use data science and statistical techniques to handle complex data efficiently. It **reduces errors, saves time**, and allows users to get accurate results without needing advanced skills or manual calculations. Additionally, the project demonstrates **how to apply mathematical models** and open-source pre-trained machine learning models to solve real-world problems in business enviroment, making data-driven informed decisions more accessible and effective.
 
 # MAIN OBJECTIVE
-The main objective of this project is to develop a program that teaches how statistical models, machine learning, and programming languages can be used for complex data analysis in a business environment. It aims to help users enhance decision-making and generate insights more effectively through automation.
+The main objective of this project is to **develop analytical information system** that **automates** how statistics, machine learning, and programming languages can be used for complex data analysis in a business environment. It aims to help users **enhance decision-making** and **generate insights** more effectively through automation.
 
 # SPECIFIC OBJECTIVES
 
-- Collect data using tools like Excel.
-- Explore the data using data exploration methods.
-- Clean the data by removing anomalies.
-- Transform the data for analysis.
-- Use pre-trained models for analysis and prediction.
-- Make statistical inferences based on the findings.
-- Compare different data groups for insights.
-- Create a web application for information sharing using Streamlit.
+- Data collection using spreadsheets
+- Data exploration
+- Data cleaning and transformation
+- Model building and training
+- Model performance evaluation
+- Prediction and optimization
+- Statistical inference and managerial decision-making
+- Model deployment using Streamlit and Django frameworks
+
+| **Step**                                  | **Description**                                                                                         |
+|-------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Data Collection using Spreadsheets        | Gathering and organizing raw data into structured formats for analysis.                                 |
+| Data Exploration                          | Analyzing data distribution, identifying patterns, and uncovering insights using visualization and summary statistics. |
+| Data Cleaning and Transformation          | Handling missing values, removing outliers, and transforming data for better compatibility with analytical models. |
+| Model Building and Training               | Designing and training machine learning models to identify patterns or make predictions.                |
+| Model Performance Evaluation              | Assessing model accuracy, precision, recall, and other metrics to ensure optimal performance.           |
+| Prediction and Optimization               | Utilizing models for forecasting and applying optimization techniques for better outcomes.              |
+| Statistical Inference and Managerial Decision-Making | Deriving actionable insights from data and guiding strategic decisions through statistical analysis.    |
+| Model Deployment using Streamlit and Django Frameworks | Deploying data science solutions as interactive web applications for accessibility and scalability.     |
+
 
 # METHODOLOGY
 1. **Data Collection**: Data is gathered from relevant sources depending on the field of application (e.g., health records, financial data, survey data).
